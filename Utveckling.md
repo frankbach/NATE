@@ -4,10 +4,11 @@ Ekonomiska trender och beslut
 # Förändring av prislappar och löner över tid
 
 Inledningsvis hämtas data från utbildningsdepartementet om prislapparnas
-utveckling från år 2000 fram till idag för olika utbildningsområden. I
-dessa data saknas prislappar för konstnärliga utbildningar av olika slag
-och idrott inte tagits med. Detta beror på att de ligger så mycket högre
-än övriga att jämförelse mellan de för oss aktuella blir svårare.
+(hst) utveckling från år 2000 fram till idag för olika
+utbildningsområden. I dessa data saknas prislappar för konstnärliga
+utbildningar av olika slag och idrott inte tagits med. Detta beror på
+att de ligger så mycket högre än övriga att jämförelse mellan de för oss
+aktuella blir svårare.
 
 ![Prislappsförändring sen år
 2000](Utveckling_files/figure-gfm/prislappsförändring-1.png)
@@ -32,10 +33,10 @@ görs i nästa diagram
 
 ![](Utveckling_files/figure-gfm/unnamed-chunk-4-1.png)<!-- -->
 
-När hänsyn tas till löneutvecklingen minskar den reella tilldelningen
-till alla utbildningsområden utom för VFU och Humsam som har haft en
+När hänsyn tas till löneutvecklingen minskar den reella tilldelningen av
+hst till alla utbildningsområden utom för VFU och Humsam som har haft en
 positiv utveckling under perioden. Det finns på detta sätt ett inbyggt
-krav på effektivisering av undervisningsversksamheten på högskolorna
+krav på effektivisering av undervisningsversksamheten på högskolorna.
 
 ## Orättvis tilldelning?
 
@@ -61,8 +62,8 @@ att ta hänsyn till ett antal andra faktorer. De mest avgörande är:
     finns en del som är lika för alla kurser och en del som beror av
     antalet studenter
 
--   Andelen laborationer som är nödvändig i undervisningen och därmed
-    maximal gruppstorlek
+-   Andelen nödvändiga laborationer i undervisningen och därmed maximal
+    gruppstorlek
 
 -   Andelen nödvändiga seminarier i undervisningen och för denna maximal
     gruppstorlek
@@ -73,7 +74,19 @@ tilldelas. Därefter har delningstalen för hur stora grupper som är
 möjliga att ha för säkra laborationer och meningsfulla seminarier stor
 betydelse. Om underhåll, reparationer och arbetet med nyanskaffning av
 utrustning och materiel läggs på undervisande lärare utgör också detta
-en relativt stor kostnad som minskar antalet undervisade timmar.
-Alltsedan teknikerfunktionen i form av Bo Malmensten försvann har denna
-funktion i stort sett inte funnits utan istället lagts på undervisande
-lärare med olika halvdana lösningar
+en relativt stor kostnad som leder till minskat antal undervisade
+timmar. Alltsedan teknikerfunktionen i form av Bo Malmensten försvann
+har denna funktion i stort sett inte funnits utan istället lagts på
+undervisande lärare med olika icke-fungerande konstruktioner.
+
+Ett annat sätt att formulera fördelningsproblematiken är att
+utbildningsdepartementet tilldelar pengar till högskolorna **per
+student**, medan högskolorna måste tilldela undervisningen pengar **per
+kurs** inklusive behov av lokaler och utrustning i förhållande till
+**innehållet** i undervisningen. I princip handlar det om att skapa ett
+system där varje student oberoende av vilken kurs den går erhåller
+ungefär lika många undervisningstimmar. Det framgår med all önskvärd
+tydlighet att på IDPP går det inte att åstadkomma med en enkel justering
+av interna prislappar som enbart kopplar till utbildningsområde.
+
+# Andra förändringar
