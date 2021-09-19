@@ -4,13 +4,13 @@ output: github_document
 ---
 
 ```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
+knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)
 ```
 
 ```{r}
 library(tidyverse)
-regl <- read_tsv("regl.tsv")
-wages <- read_tsv("wages.tsv")
+regl <- read_tsv("data/regl.tsv")
+wages <- read_tsv("data/wages.tsv")
 theme_set(theme_bw())
 ```
 
